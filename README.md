@@ -7,6 +7,6 @@ Since our framework is quite simple, we only provide a general framework, and us
 ![image](https://github.com/qzp2018/AnyTrans/blob/main/Overview_1.jpg)
 
 ## Datasets
-all2zh dataset[GoogleDrive](https://drive.google.com/file/d/1Mdj9UjhO8n5UKC3jmq-PliXkchMRd_oZ/view?usp=sharing)
+all2zh dataset   [GoogleDrive](https://drive.google.com/file/d/1Mdj9UjhO8n5UKC3jmq-PliXkchMRd_oZ/view?usp=sharing)
 
-zh2all dataset[GoogleDrive](https://drive.google.com/file/d/15YXqcPllw4x1Xk8FtRoq8FHf_Uw59h7e/view?usp=drive_link)
+zh2all dataset   [GoogleDrive](https://drive.google.com/file/d/15YXqcPllw4x1Xk8FtRoq8FHf_Uw59h7e/view?usp=drive_link)
